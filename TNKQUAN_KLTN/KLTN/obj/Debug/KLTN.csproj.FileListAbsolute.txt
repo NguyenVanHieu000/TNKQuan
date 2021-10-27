@@ -1,0 +1,106 @@
+F:\KHÓA LUẬN\KLTN\KLTN\bin\Debug\KLTN.exe
+F:\KHÓA LUẬN\KLTN\KLTN\bin\Debug\KLTN.pdb
+F:\KHÓA LUẬN\KLTN\KLTN\bin\Debug\Guna.UI2.dll
+F:\KHÓA LUẬN\KLTN\KLTN\obj\Debug\KLTN.csprojResolveAssemblyReference.cache
+F:\KHÓA LUẬN\KLTN\KLTN\obj\Debug\KLTN.frmDangNhap.resources
+F:\KHÓA LUẬN\KLTN\KLTN\obj\Debug\KLTN.Properties.Resources.resources
+F:\KHÓA LUẬN\KLTN\KLTN\obj\Debug\KLTN.csproj.GenerateResource.Cache
+F:\KHÓA LUẬN\KLTN\KLTN\obj\Debug\KLTN.exe.licenses
+F:\KHÓA LUẬN\KLTN\KLTN\obj\Debug\KLTN.exe
+F:\KHÓA LUẬN\KLTN\KLTN\obj\Debug\KLTN.pdb
+F:\KHÓA LUẬN\KLTN\KLTN\obj\Debug\KLTN.frmMain.resources
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.exe
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.pdb
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\KLTN.exe.config
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.frmMain.resources
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.frmDangNhap.resources
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.frmThongKeDiem.resources
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.csproj.GenerateResource.Cache
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\KLTN.exe
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\KLTN.pdb
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\Antlr3.Runtime.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\FontAwesome.Sharp.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\FontAwesome.WPF.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\Guna.UI2.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\Newtonsoft.Json.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.Helpers.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.Mvc.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.Optimization.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.Razor.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.WebPages.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.WebPages.Razor.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\WebActivatorEx.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\WebGrease.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\Antlr3.Runtime.pdb
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\FontAwesome.WPF.xml
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\Newtonsoft.Json.xml
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.Helpers.xml
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.Mvc.xml
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.Optimization.xml
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.Razor.xml
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.WebPages.xml
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\System.Web.WebPages.Razor.xml
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.Properties.Resources.resources
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.exe.licenses
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.frmDLTK.resources
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.frmTaoDotThi.resources
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.csprojResolveAssemblyReference.cache
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.frmSoanNHCH.resources
+G:\KHOALUAN\KLTN\KLTN\obj\Debug\KLTN.frmSDTK.resources
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\Bunifu.Charts.WinForms.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\Bunifu.Licensing.dll
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\Bunifu.Charts.WinForms.xml
+G:\KHOALUAN\KLTN\KLTN\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\BaiTap\KhoaLuanTotNghiep\KLTN\KLTN\bin\Debug\KLTN.exe.config
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\KLTN.exe.config
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\KLTN.exe
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\KLTN.pdb
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\Antlr3.Runtime.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\BLL_DAL.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\FontAwesome.Sharp.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\FontAwesome.WPF.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\Newtonsoft.Json.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.Helpers.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.Mvc.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.Optimization.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.Razor.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.WebPages.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.WebPages.Razor.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\WebActivatorEx.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\WebGrease.dll
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\BLL_DAL.pdb
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\Antlr3.Runtime.pdb
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\FontAwesome.WPF.xml
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\Newtonsoft.Json.xml
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.Helpers.xml
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.Mvc.xml
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.Optimization.xml
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.Razor.xml
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.WebPages.xml
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\bin\Debug\System.Web.WebPages.Razor.xml
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.csprojResolveAssemblyReference.cache
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.frmDLTK.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.frmMain.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.frmDangNhap.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.frmPhanQuyen.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.frmQLNHCHoi.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KhoaLuan_TracNghiem.frmQLSV.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.frmSDTK.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KhoaLuan_TracNghiem.frmSoanCauHoi.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.frmSoanNHCH.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KhoaLuan_TracNghiem.frmTaoDe.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.frmTaoDotThi.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.frmTGThi.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.frmThongKeDiem.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.Properties.Resources.resources
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.csproj.GenerateResource.Cache
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.exe.licenses
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.exe
+D:\BaiTap\KhoaLuanTotNghiep\TNKQuan\TNKQUAN_KLTN\KLTN\obj\Debug\KLTN.pdb
